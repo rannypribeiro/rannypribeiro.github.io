@@ -1,0 +1,17 @@
+---
+title: "Image gallery"
+lightbox: true
+---
+
+::: {layout-nrow=1 layout-valign="bottom"}
+
+![](https://source.unsplash.com/jlzxJuSINsw){group="my-gallery" height=128px width=128px}
+
+![](https://source.unsplash.com/a-brown-dog-laying-on-top-of-a-white-bed-90ub4oBH1WU){group="my-gallery" height=128px width=128px}
+
+![](https://source.unsplash.com/ZJVXcRmaSJM){group="my-gallery" height=128px width=128px}
+
+![](https://source.unsplash.com/cVpfbLcm0Bo){group="my-gallery" height=128px width=128px}
+
+
+:::

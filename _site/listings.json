@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/sci-art.html",
+    "items": [
+      "/sci-art/comics/comics.html",
+      "/sci-art/drawings/drawings.html",
+      "/sci-art/imaging/imaging.html"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "76389eeb"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "6a4d13cb"
+  },
+  "index.qmd": {
+    "index.html": "8ad03d17"
+  },
+  "blog.qmd": {
+    "blog.html": "b13cce6a"
+  },
+  "posts/firstpost/1post.qmd": {
+    "1post.html": "b46de0b4"
+  },
+  "research.qmd": {
+    "research.html": "834090ac"
+  },
+  "publications.qmd": {
+    "publications.html": "98a07f86"
+  },
+  "res.qmd": {
+    "res.html": "d7439f27"
+  },
+  "aboutme.qmd": {
+    "aboutme.html": "ab0b3069"
+  },
+  "research.posts/anneliddiversity/index.qmd": {
+    "index.html": "85a8ec11"
+  },
+  "research.posts/regeneration/index.qmd": {
+    "index.html": "854295c6"
+  },
+  "sci-art.qmd": {
+    "sci-art.html": "06022a5c"
+  },
+  "outreach.qmd": {
+    "outreach.html": "0ccf2039"
+  },
+  "resources.qmd": {
+    "resources.html": "9cf9ec81"
+  },
+  "sci-art/comics/comics.qmd": {
+    "comics.html": "94469d9c"
+  },
+  "sci-art/imaging/imaging.qmd": {
+    "imaging.html": "e8f5052e"
+  },
+  "sci-art/test/test.qmd": {
+    "test.html": "23f2e130"
+  },
+  "sci-art/drawings/drawings.qmd": {
+    "drawings.html": "d81fed13"
+  },
+  "sci-art/b-comics/comics.qmd": {
+    "comics.html": "ec70e49a"
+  },
+  "sci-art/a-imaging/imaging.qmd": {
+    "imaging.html": "e68ec609"
+  },
+  "sci-art/c-drawings/drawings.qmd": {
+    "drawings.html": "5b9edf60"
+  }
+}

@@ -1,0 +1,14 @@
+---
+title: "Drawings"
+lightbox: true
+---
+
+These drawings were featured in some of my publications and can serve as valuable resources for teaching about segmented worms in biology.
+
+::: {layout-nrow="1" layout-valign="bottom"}
+![](Figure1.jpg){group="my-gallery" height="128px" width="128px"}
+
+![](schizogamy.jpg){group="my-gallery" height="128px" width="128px"}
+
+![](Smalaquini.jpg){group="my-gallery" height="128px" width="128px"}
+:::

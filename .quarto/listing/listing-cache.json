@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "sci-art.qmd": [
+      "sci-art"
+    ],
+    "blog.qmd": [
+      "posts"
+    ]
+  }
+}

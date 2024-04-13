@@ -1,0 +1,21 @@
+---
+title: "Ranny P. Ribeiro, PhD"
+image: FemaleMale.png
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/rannypribeiro
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/rannyele-ribeiro-a669501a5/
+    - icon: github
+      text: Github
+      href: https://github.com/rannypribeiro
+    - icon: github
+      text: Github
+      href: https://github.com/rannypribeiro
+---
+
+I am currently a Postdoctoral Researcher in the Özpolat Lab at Washington University in St. Louis. My primary research interest lies in exploring **regeneration in segmented worms**. Regeneration served as a key factor for investigating sex differences in my latest project, which focuses on uncovering sex-biased differences in the segmented worm *Platyneries dumerilii*, using RNA sequencing. Future endeavors will center on unraveling the remarkable plasticity of segmented worm cells and their ability to undergo multiple rounds of regeneration endlessly.

@@ -1,0 +1,10 @@
+---
+title: Sci-art
+listing:
+  contents: sci-art
+  type: default
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
