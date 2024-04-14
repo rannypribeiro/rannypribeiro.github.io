@@ -6,7 +6,7 @@ website:
   title: "Ranny P. Ribeiro, PhD"
   site-url: https://rannypribeiro.github.io
   description: "This is Ranny Ribeiro's personal Blog."
-  favicon: logo.png
+  favicon: logo.jpg
   navbar:
     right:
       - text: Blog
