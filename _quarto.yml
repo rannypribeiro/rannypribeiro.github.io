@@ -6,8 +6,11 @@ website:
   title: "Ranny P. Ribeiro, PhD"
   site-url: https://rannypribeiro.github.io
   description: "This is Ranny Ribeiro's personal Blog."
+  favicon: logo.png
   navbar:
     right:
+      - text: Blog
+        href: blog.qmd
       - text: Bio
         href: aboutme.qmd
       - text: Research
@@ -20,8 +23,6 @@ website:
         href: outreach.qmd
       - text: Sci-art
         href: sci-art.qmd
-      - text: Blog
-        href: blog.qmd
       - icon: github
         href: https://github.com/rannypribeiro
       - icon: twitter
