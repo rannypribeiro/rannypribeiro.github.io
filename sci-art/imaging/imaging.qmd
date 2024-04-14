@@ -3,12 +3,12 @@ title: Imaging
 lightbox: true
 ---
 
-Diving into imaging is a great experience. I have engaged in many imaging techniques, including light, fluorescence, laser scanning microscopy, as part of my work. I find immense joy in appreciating the aesthetic aspects of biology through the art of imaging. Feel free to explore my gallery for a visual journey into my work.
+Diving into imaging is a great experience. I have engaged in many imaging techniques, including light, fluorescence, laser scanning microscopy, as part of my work. I find immense joy in appreciating the aesthetic aspects of biology through the art of imaging.
 
 ::: {layout-nrow="1"}
-![Sperm of Platynereis dumerilii labeled in orange pumpkin (nuclei) and olive (standard lissaminated morpholino)](gamete-carving.jpg){group="my-gallery" height="250px"}
+![Sperm of Platynereis dumerilii labeled in orange (nuclei) and olive (standard lissaminated morpholino).](gamete-carving.jpg){group="my-gallery" height="250px"}
 
-![Male and female of Platynereis dumerilirr](FemaleMale.png){group="my-gallery" height="250px"}
+![Male and female of Platynereis dumerili](FemaleMale.png){group="my-gallery" height="250px"}
 
 ![This is a photo of a regenerated anterior body of Syllis malaquini. In pink, S-phase cells, i.e. proliferating cells. Green: chaetae](dramasyllis.jpg){group="my-gallery" height="250px"}
 :::

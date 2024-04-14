@@ -3,7 +3,7 @@ title: "Drawings"
 lightbox: true
 ---
 
-These drawings were featured in some of my publications and can serve as valuable resources for teaching about segmented worms in biology.
+These drawings were featured in some of my publications and can serve as resources for teaching the biology of segmented worms.
 
 ::: {layout-nrow="1" layout-valign="bottom"}
 ![](Figure1.jpg){group="my-gallery" height="198px"}

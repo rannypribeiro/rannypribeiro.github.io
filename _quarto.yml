@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Ranny P. Ribeiro"
+  title: "Ranny P. Ribeiro, PhD"
   site-url: https://rannypribeiro.github.io
   description: "This is Ranny Ribeiro's personal Blog."
   navbar:

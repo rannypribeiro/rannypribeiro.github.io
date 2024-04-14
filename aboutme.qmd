@@ -3,11 +3,27 @@ title: About me
 page-layout: full
 image: image.jpg
 about:
-  template: jolla
+  template: trestles
 ---
 
-I hail from São Luís, Maranhão, Brazil, boasting a rich heritage that spans Native Brazilian roots from the Guajajara tribe, alongside African and Iberian ancestry. From a tender age, my fascination with science took root. Eventually, I pursued my passion, becoming a biologist. During my undergraduate studies, I was introduced to a remarkable realm inhabited by creatures both delicate and conspicuous—polychaetes, which are marine segmented worms. I have navigated through various projects studying these worms, spanning taxonomy, ecology, systematics, reproduction, and ultimately, regeneration. Sometimes my adventures led me to the middle of a mangrove, collecting worms from the mud; sometimes, I found myself scuba diving in paradisiacal oceanic islands, and most times, I was on the lab bench, pipetting or counting segments.
+### Rannyele Passos Ribeiro
 
-During this exploration, I found out how amazing these worms are at regenerating, and I realized: this is my calling. Fascinated by the remarkable power of regeneration these worms possess, my research has become a quest to comprehend the mechanisms by which their cells proliferate and differentiate into any cell type, and how these mechanisms help worms to defy the passage of time and live indefinitely.
+I go by Ranny, pronounced as "[hun-ny](https://dictionary.cambridge.org/us/pronunciation/english/hunny)".
 
-Although the work is nice, for a balanced life, I like to spend time with my family, I keep a fitness schedule for strenght, and I love dancing all styles: salsa, bachata, kizomba, all brazilian rithms (axe, funk, pisadinha) and yes, I'm also a pole dancer.
+### Education
+
+PhD. in Biology. Autonomous University of Madrid, Spain. 2021.
+
+MSc. in Environmental Sciences and Conservation. Federal University of Rio de Janeiro, Brazil. 2015.
+
+BSc. in Biology. State University of Maranhão, Brazil. 2013.
+
+### Biography
+
+I come from São Luís, Maranhão, Brazil, with a diverse heritage that includes Native Brazilian ancestry from the Guajajara tribe, as well as African and Iberian roots. My interest in science began at a young age, and I eventually became a biologist. During my undergraduate studies, I was introduced to a remarkable realm inhabited by creatures both delicate and conspicuous—polychaete annelids, which are marine segmented worms. I have navigated through various projects studying these worms, spanning taxonomy, ecology, reproduction, and ultimately, regeneration. Sometimes my adventures led me to the middle of a mangrove, collecting worms from the mud; sometimes, I found myself scuba diving in paradisiacal oceanic islands, and most times, I was on the lab bench, pipetting or counting segments.
+
+Each adventure has contributed to my understanding of how amazing these worms are. Fascinated by their remarkable regenerative abilities, my research has become a quest to comprehend the mechanisms by which their cells proliferate and differentiate. Additionally, I am continually amazed by how these mechanisms enable these worms to defy the passage of time and live indefinitely.
+
+While I enjoy my work, I prioritize a balanced lifestyle by spending quality time with my family and friends, and maintaining a fitness routine for strength. Having hobbies is essential for me, and aside from playing guitar for enjoyment, I immerse myself in my love for dancing. I enjoy exploring diverse dance styles such as salsa, bachata, kizomba, as well as Brazilian styles like forró, axé, funk, and pisadinha. I'm also a beginner in pole dancing.
+
+### 
