@@ -6,9 +6,9 @@ lightbox: true
 These drawings were featured in some of my publications and can serve as resources for teaching the biology of segmented worms.
 
 ::: {layout-nrow="1" layout-valign="bottom"}
-![](Figure1.jpg){group="my-gallery" height="198px"}
+![Syllis reproduction (Ponz-Segrelles et al 2020)](Figure1.jpg){group="my-gallery" height="198px"}
 
-![](schizogamy.jpg){group="my-gallery" height="198px"}
+![Schizogamy in syllids (Ribeiro et al 2018)](schizogamy.jpg){group="my-gallery" height="198px"}
 
-![](Smalaquini.jpg){group="my-gallery" height="198px"}
+![Syllis malaquini reproduction (Ribeiro et al 2020)](Smalaquini.jpg){group="my-gallery" height="198px"}
 :::
