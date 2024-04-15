@@ -25,7 +25,7 @@ website:
         href: sci-art.qmd
       - icon: github
         href: https://github.com/rannypribeiro
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/rannypribeiro
 format:
   html:
