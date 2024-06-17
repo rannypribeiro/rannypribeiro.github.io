@@ -61,5 +61,8 @@
   },
   "sci-art/c-drawings/drawings.qmd": {
     "drawings.html": "5b9edf60"
+  },
+  "posts/wups-podcast/podcast1.qmd": {
+    "podcast1.html": "ce11c24e"
   }
 }

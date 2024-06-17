@@ -1,0 +1,10 @@
+---
+title: "Ranny co-hosts a podcast"
+author: "Ranny Ribeiro"
+date: "2024-05-18"
+categories: [news]
+---
+
+The WUPS Outreach Committee just started another project: WUPS podcast... and I'm co-hosting it. In our inaugural episode, hosted by the brilliatn scientist Dr. Rishabh Bajpai, we had the pleasure of interviewing Dr. Ash Rajesh. We delved into her impactful research, her achievements and experiences as the current president of WUPS, and gained insight into her personal journey. Tune in and check it out here: [WUPS podcast](https://open.spotify.com/episode/1Raf4dgjNCUqLYjIOeo9wT?si=659b74a575e0477d).
+
+![](logo_square.png)

@@ -3,7 +3,7 @@ title: "Drawings"
 lightbox: true
 ---
 
-These drawings were featured in some of my publications and can serve as resources for teaching the biology of segmented worms.
+These drawings were featured in some of my publications. They picture the life cycle of some polychaetes and can serve as resources for teaching.
 
 ::: {layout-nrow="1" layout-valign="bottom"}
 ![Syllis reproduction (Ponz-Segrelles et al 2020)](Figure1.jpg){group="my-gallery" height="198px"}

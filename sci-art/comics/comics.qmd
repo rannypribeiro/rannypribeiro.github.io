@@ -6,11 +6,11 @@ lightbox: true
 Comics can be a fun and versatile communication resource. As a comic enthusiast, I began illustrating some to creatively convey my research findings. My goal is to craft a unique comic for each of my future publications whenever feasible. Rather than adhering to a strict publishing schedule, I let my creativity and current mindset guide me through the scientific storytelling process. Take a peek at the comics I have created thus far.
 
 ::: {layout-nrow="2" layout-valign="bottom"}
-![We named a polychete species in honor to Zelinha (Maurizelia de Brito). The guardian of the paradisiacal Rocas Atoll. Thanks Zelinha. Details in Freitas et al. (2023).](Dzelinhae.jpg){group="my-gallery" height="328px"}
+![We named a polychete species in honor to Zelinha (Maurizelia de Brito) - the guardian of the paradisiacal Rocas Atoll. Thanks Zelinha. Details in Freitas et al. (2023).](Dzelinhae.jpg){group="my-gallery" height="328px"}
 
-![We named a polychaete species in honor to my first PI, Dr. Zafira de Almeida. Unfortunately, she left so soon and I miss her so much. She will continue to be one of my role models. Thanks, Za. Details in Freitas et al. (2022)](Kzafirae.jpg){group="my-gallery" height="328px"}
+![We named a polychaete species in honor to my first PI, Dr. Zafira de Almeida. Unfortunately, she left us so soon and I miss her so much. She will continue to be one of my role models. Thanks, Za. Details in Freitas et al. (2022)](Kzafirae.jpg){group="my-gallery" height="328px"}
 
-![A new Ramisyllis from Japan. It clearly deserves a comic, and it will be a new friend for Mala. Details in Aguado et al. (2022).](Ramibutts.jpg){group="my-gallery" height="328px"}
+![A new Ramisyllis from Japan. It clearly deserves a comic, and it will be a new friend for Mr. Mala. Details in Aguado et al. (2022).](Ramibutts.jpg){group="my-gallery" height="328px"}
 
-![The worm in my lab has been described and it was the inspiration for my first comic character, Mr. Mala. Details in Ribeiro et al (2020)](Smalaheart.jpg){group="my-gallery" height="328px"}
+![I described a new syllid species and it was the inspiration for my first comic character, Mr. Mala. Details in Ribeiro et al (2020)](Smalaheart.jpg){group="my-gallery" height="328px"}
 :::
