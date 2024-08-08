@@ -1,0 +1,8 @@
+---
+title: "New pre-print"
+author: "Ranny Ribeiro"
+date: "2024-06-18"
+categories: [news]
+---
+
+We published a pre-print about sex differentiation in *Platynereis dumerilii*! This was such a cool experiment! "Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis"* <https://www.biorxiv.org/content/10.1101/2024.06.12.598746v1>

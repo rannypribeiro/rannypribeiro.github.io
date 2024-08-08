@@ -1,0 +1,8 @@
+---
+title: "Invited talk for Gonomix"
+author: "Ranny Ribeiro"
+date: "2024-06-20"
+categories: [news]
+---
+
+I gave a seminar for Gönomix, a group of researchers from the University of Göttingen studying the diversity of gene function in development and other biological processes. I took a course on Molecular Genetics there five years ago and it was great to see some of my professors and the campus once again. My talk was about sexual differentiation in *Platynereis dumerilii.*![](gonomix-seminar-2024.JPG)

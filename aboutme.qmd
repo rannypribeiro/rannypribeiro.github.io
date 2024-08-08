@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Bio
 page-layout: full
 image: image2.jpg
 about:
