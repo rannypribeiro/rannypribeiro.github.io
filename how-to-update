@@ -1,9 +1,0 @@
-cd "repository folder"
-
-git add .
-
-git commit -m "update"
-
-push
-
-quarto publish
