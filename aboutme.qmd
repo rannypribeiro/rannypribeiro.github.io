@@ -2,6 +2,7 @@
 title: Bio
 page-layout: full
 image: image2.jpg
+keywords: [Rannyele, rannyele, ranny, Passos, passos, Ribeiro, ribeiro, science, biology, washu, WashU, regeneration, cv, bio, page, personnal page]
 about:
   template: trestles
 ---
