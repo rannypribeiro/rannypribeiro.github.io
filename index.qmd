@@ -1,7 +1,6 @@
 ---
 title: ""
 image: gamete-carving.jpg
-keywords: [rannyele, passos, ribeiro, regeneration, reproduction]
 about:
   template: marquee
   image-title: germline cells
