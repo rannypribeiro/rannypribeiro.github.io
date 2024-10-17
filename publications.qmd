@@ -4,11 +4,13 @@ title: Publications
 
 ## **Pre-prints**
 
-Ribeiro, R.P., Null, R.W., Ozpolat, D.B. Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. bioRxiv 2024.06.12.598746; [Link](https://doi.org/10.1101/2024.06.12.598746)
+**Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. bioRxiv 2024.06.12.598746; [Link](https://doi.org/10.1101/2024.06.12.598746)
 
 ## **Research articles**
 
-16. **Ribeiro, R.P.**, Freitas, R., Zanol, J., Paiva, P.C., Fukuda, M.V., Guilment, T., Ruta, C. (2023) Genetic diversity of polychaete annelids from the Saint Peter and Saint Paul Archipelago, Equatorial Atlantic, with description of a new species. Regional Studies in Marine Science,68, 103243. [Link](https://doi.org/10.1016/j.rsma.2023.103243).
+17. Spiess, V.*,* **Ribeiro, R.P.\***, Helm, C., Aguado, M.T. (2024) From two segments and beyond: investigating the onset of regeneration in *Syllis malaquini* (Syllidae, Annelida). Evolution & Development, e12492. [Link](https://doi.org/10.1111/ede.12492) \*Authors with equal contributions.
+
+18. **Ribeiro, R.P.**, Freitas, R., Zanol, J., Paiva, P.C., Fukuda, M.V., Guilment, T., Ruta, C. (2023) Genetic diversity of polychaete annelids from the Saint Peter and Saint Paul Archipelago, Equatorial Atlantic, with description of a new species. Regional Studies in Marine Science,68, 103243. [Link](https://doi.org/10.1016/j.rsma.2023.103243).
 
 <!-- -->
 

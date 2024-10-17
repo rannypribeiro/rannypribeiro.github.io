@@ -8,8 +8,6 @@ about:
 
 ### Rannyele Passos Ribeiro
 
-I go by Ranny, pronounced as "[hun-ny](https://dictionary.cambridge.org/us/pronunciation/english/hunny)". My [CV](https://github.com/rannypribeiro/rannypribeiro.github.io/blob/main/CV_RPR.pdf).
-
 ### Education
 
 PhD. in Biology. Autonomous University of Madrid, Spain. 2021.
@@ -17,6 +15,8 @@ PhD. in Biology. Autonomous University of Madrid, Spain. 2021.
 MSc. in Environmental Sciences and Conservation. Federal University of Rio de Janeiro, Brazil. 2015.
 
 BSc. in Biology. State University of Maranhão, Brazil. 2013.
+
+More information on my [CV](https://github.com/rannypribeiro/rannypribeiro.github.io/blob/main/CV_RPR.pdf).
 
 ### Biography
 
@@ -26,4 +26,6 @@ Each adventure has contributed to my understanding of how amazing these worms ar
 
 While I enjoy my work, I prioritize a balanced lifestyle by spending quality time with my family and friends, and maintaining a fitness routine for strength. Having hobbies is essential for me, and aside from playing guitar for enjoyment, I immerse myself in my love for dancing. I enjoy exploring diverse dance styles such as salsa, bachata, kizomba, as well as Brazilian styles like forró, axé and more.
 
-### 
+### How to pronounce my name
+
+I go by Ranny, pronounced as "[hun-ny](https://dictionary.cambridge.org/us/pronunciation/english/hunny)".
