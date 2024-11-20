@@ -1,0 +1,10 @@
+---
+title: "Talk at Stowers Institute"
+author: "Ranny Ribeiro"
+date: "2024-10-24"
+categories: [news]
+---
+
+Today, I had the privilege of presenting my research during the Stowers Research Conference on **Developmental Cell Biology***.* In this research, I explored sex differences during gametogenesis in *Platynereis dumerilii* using RNA sequencing. We uncovered that sex-biased gene expression becomes more pronounced during advanced developmental stages. Learn more about the novel genes we discovered and explore our [pre-print](https://doi.org/10.1101/2024.06.12.598746) for additional details.
+
+![](images/PXL_20241024_191548397 (1).jpg)
