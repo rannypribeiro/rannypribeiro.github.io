@@ -2,12 +2,14 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/oct2024-new-paper.html",
-      "/posts/oct2024-CSHL.html",
-      "/posts/sep2024-crmretreat.html",
+      "/posts/2024-oct-23.html",
+      "/posts/2024-oct-11.html",
+      "/posts/2024-oct-16-new-paper.html",
+      "/posts/2024-oct-10.html",
+      "/posts/2024-sep-17-crmretreat.html",
       "/posts/EED2024.html",
       "/posts/20jun2024/20jun24.html",
-      "/posts/new-pre-print-jun24.html",
+      "/posts/2024-jun-18.html",
       "/posts/wups-podcast/podcast1.html",
       "/posts/welcome/index.html"
     ]
