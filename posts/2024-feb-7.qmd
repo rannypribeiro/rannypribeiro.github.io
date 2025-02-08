@@ -1,0 +1,10 @@
+---
+title: "Undergrad accomplishments"
+author: "Ranny Ribeiro"
+date: "2025-02-07"
+categories: [news]
+---
+
+Mia Somocurcio, a visiting undergraduate student in the Özpolat Lab whom I am currently mentoring, has been accepted to attend an international [course](https://biophysal.org/2025-course-plan/) at the University of Salamanca. Congrats Mia!
+
+![](images/IMG_5079.JPG){width="250"}

@@ -5,9 +5,6 @@ about:
   template: marquee
   image-title: germline cells
   links:
-    - icon: twitter-x
-      text: Twitter
-      href: https://twitter.com/rannypribeiro
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/rannyele-ribeiro-a669501a5/
@@ -27,6 +24,6 @@ about:
 
 <p style="text-align: center;">
 
-I am currently a Postdoctoral Researcher in the Özpolat Lab at Washington University in St. Louis. My primary research interest lies in exploring **regeneration in segmented worms**. Regeneration served as a key factor in my current project, which focuses on uncovering sex-biased differences in the segmented worm *Platyneries dumerilii*, using RNA sequencing.
+I am currently a Postdoctoral Researcher in the [Özpolat Lab](https://bduyguozpolat.org/) at Washington University in St. Louis. My primary research interest lies in exploring **regeneration in segmented worms**. Regeneration served as a key factor in my current project, which focuses on uncovering sex-biased differences in the segmented worm *Platyneries dumerilii*, using RNA sequencing.
 
 </p>

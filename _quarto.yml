@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Ranny P. Ribeiro, PhD"
+  title: "Rannyele P. Ribeiro, PhD"
   site-url: https://rannypribeiro.github.io
-  description: "This is Ranny Ribeiro's personal Blog."
+  description: "This is Ranny Ribeiro's personal website."
   favicon: logo.jpg
   navbar:
     right:
-      - text: Blog
+      - text: News
         href: blog.qmd
       - text: Bio
         href: aboutme.qmd
@@ -25,8 +25,6 @@ website:
         href: sci-art.qmd
       - icon: github
         href: https://github.com/rannypribeiro
-      - icon: twitter-x
-        href: https://twitter.com/rannypribeiro
 format:
   html:
     theme: flatly
