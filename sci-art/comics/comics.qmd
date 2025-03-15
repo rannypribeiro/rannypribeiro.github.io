@@ -1,11 +1,11 @@
 ---
-title: Comics: Wormly Speaking
+title: Comics - Wormly Speaking
 lightbox: true
 ---
 
-Comics are a fun and versatile way to communicate complex ideas. As a comic enthusiast, I began illustrating them as a creative tool to share my research findings. Over time, I’ve crafted a unique comic strip for each of my scientific publications, blending storytelling with science in an engaging format. Rather than following a rigid publishing schedule, I allow my creativity and current mindset to shape the scientific narratives I bring to life.
+Comics are a fun and versatile way to communicate complex ideas. As a comic enthusiast, I began illustrating them to share my research findings. I’ve crafted comic strips for some of my scientific publications, blending storytelling with science in an engaging format. Rather than following a rigid publishing schedule, I allow my creativity and current mindset to shape the scientific narratives I bring to life.
 
-Expanding on this passion, I launched **Wormly Speaking**—a platform dedicated to giving voice to the fascinating yet often overlooked creatures I study: polychaete worms. Through this channel, my mission is to empower and inspire us with hopeful stories while also sharing the remarkable traits of these worms, such as their reproduction styles and ability to regenerate. These worms have been my role model of resilience during hard transitional times in my life. I think . Take a peek at the stories I’ve created so far— they may be **hopeful worms** for you too!
+Expanding on this passion, I launched **Wormly Speaking**—a project dedicated to giving voice to the fascinating yet often overlooked polychaete worms. Through this channel, my mission is to empower and inspire us with hopeful stories while also sharing the remarkable traits of these worms, such as their reproduction styles and ability to regenerate. These worms have been my role model of resilience during hard transitional times in my life. Take a peek at the stories I’ve created so far— they may be **hopeful worms** for you too!
 
 ::: {layout-nrow="2" layout-valign="bottom"}
 ![We named a polychete species in honor to Zelinha (Maurizelia de Brito) - the guardian of the paradisiacal Rocas Atoll. Thanks Zelinha. Details in Freitas et al. (2023).](Dzelinhae.jpg){group="my-gallery" height="328px"}
