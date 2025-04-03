@@ -8,7 +8,7 @@ Diving into imaging is a great experience. I have engaged in many imaging techni
 ::: {layout-nrow="1"}
 ![Sperm of Platynereis dumerilii labeled in orange (nuclei) and olive (standard lissaminated morpholino).](gamete-carving.jpg){group="my-gallery" height="250px"}
 
-![Male and female of *Platynereis dumerili*. Associated article and cover page in Development: [Ribeiro et al. 2025](https://doi.org/10.1242/dev.204513).](FemaleMale.png){group="my-gallery" height="250px"}
+![Male and female of *Platynereis dumerili*. Associated article and cover page in Development: [Ribeiro et al. 2025](https://doi.org/10.1242/dev.204513).](FemaleMale.png){group="my-gallery" height="250"}
 
-![This is a photo of a regenerated anterior body of Syllis malaquini. In pink, S-phase cells, i.e. proliferating cells. Green: chaetae. Associated research article: [Ribeiro et al. 2021](https://frontiersinzoology.biomedcentral.com/articles/10.1186/s12983-021-00396-y). ](dramasyllis.jpg){group="my-gallery" height="250px"}
+![This is a photo of a regenerated anterior body of Syllis malaquini. In pink, S-phase cells, i.e. proliferating cells. Green: chaetae. Associated research article: [Ribeiro et al. 2021](https://frontiersinzoology.biomedcentral.com/articles/10.1186/s12983-021-00396-y).](dramasyllis.jpg){group="my-gallery" height="250px"}
 :::
