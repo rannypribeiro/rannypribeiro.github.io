@@ -2,75 +2,77 @@
 title: Publications
 ---
 
-## **Pre-prints**
-
-**Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. bioRxiv 2024.06.12.598746; [Link](https://doi.org/10.1101/2024.06.12.598746)
-
 ## **Research articles**
 
-17. Spieß, V.\**,* **Ribeiro, R.P.\***, Helm, C., Aguado, M.T. (2024) From two segments and beyond: investigating the onset of regeneration in *Syllis malaquini* (Syllidae, Annelida). Evolution & Development, e12492. [Link](https://doi.org/10.1111/ede.12492) \*Authors with equal contributions.
-
-18. **Ribeiro, R.P.**, Freitas, R., Zanol, J., Paiva, P.C., Fukuda, M.V., Guilment, T., Ruta, C. (2023) Genetic diversity of polychaete annelids from the Saint Peter and Saint Paul Archipelago, Equatorial Atlantic, with description of a new species. Regional Studies in Marine Science,68, 103243. [Link](https://doi.org/10.1016/j.rsma.2023.103243).
+18. **Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. ***Development***. (2025) 152 (7): dev204513.; [Link](https://doi.org/10.1101/2024.06.12.598746)
 
 <!-- -->
 
-15. Ruta, C., Mundin, D., Freitas, R., **Ribeiro, R.P.** (2023) New species and record of *Dodecaceria* (Annelida: Cirratulidae) from the only atoll in the South Atlantic Ocean, the Biological Reserve of Rocas Atoll, Brazil. PLOS ONE, 18(10): e0293087. [Link](https://doi.org/10.1371/journal.pone.0293087)
+17. Spieß, V.\**,* **Ribeiro, R.P.\***, Helm, C., Aguado, M.T. (2024) From two segments and beyond: investigating the onset of regeneration in *Syllis malaquini* (Syllidae, Annelida). ***Evolution & Development***, e12492. [Link](https://doi.org/10.1111/ede.12492) \*Authors with equal contributions.
 
 <!-- -->
 
-14. Freitas, R., **Ribeiro, R.P.**, Ruta, C. (2022) *Kirkegaardia* Blake, 2016 (Annelida: Cirratulidae) from Southeastern Brazil with description of nine new species. PLOS ONE, 17(5):e0265336. [Link](https://doi.org/10.1371/journal.pone.0265336)
+16. **Ribeiro, R.P.**, Freitas, R., Zanol, J., Paiva, P.C., Fukuda, M.V., Guilment, T., Ruta, C. (2023) Genetic diversity of polychaete annelids from the Saint Peter and Saint Paul Archipelago, Equatorial Atlantic, with description of a new species. ***Regional Studies in Marine Science***,68, 103243. [Link](https://doi.org/10.1016/j.rsma.2023.103243).
 
 <!-- -->
 
-13. Paula, M.S., Freitas, R., Barbosa, C.A.M., **Ribeiro, R.P.**, Ruta, C. (2022) Bycatch of Asteroidea from shrimp trawl fishery in the southwestern Atlantic Ocean – Brazil. Papeis Avulsos de Zoologia. 62, e202262007. [Link](https://doi.org/10.11606/1807-0205/2022.62.007)
+15. Ruta, C., Mundin, D., Freitas, R., **Ribeiro, R.P.** (2023) New species and record of *Dodecaceria* (Annelida: Cirratulidae) from the only atoll in the South Atlantic Ocean, the Biological Reserve of Rocas Atoll, Brazil. ***PLOS ONE***, 18(10): e0293087. [Link](https://doi.org/10.1371/journal.pone.0293087)
 
 <!-- -->
 
-12. Aguado, M. T., Ponz-Segrelles, G., Glasby, C.J., **Ribeiro, R.P.**, Nakamura, M., Oguchi, K., Omori, A., Kohtsuka, H., Fisher, C., Ise, Y., Jimi, N., Miura, T. (2022). *Ramisyllis kingghidorahi*, a new branching annelid from Japan. Organisms Diversity and Evolution, 22, 377–405. [Link](https://doi.org/10.1007/s13127-021-00538-4)
+14. Freitas, R., **Ribeiro, R.P.**, Ruta, C. (2022) *Kirkegaardia* Blake, 2016 (Annelida: Cirratulidae) from Southeastern Brazil with description of nine new species. ***PLOS ONE*****,** 17(5):e0265336. [Link](https://doi.org/10.1371/journal.pone.0265336)
 
 <!-- -->
 
-11. **Ribeiro, R.P.**, Aguado, M.T. (2021) Effects of GSK3β inhibition in the regeneration of *Syllis malaquini* (Syllidae, Annelida). Development, Genes and Evolution, 231, 141–146. [Link](https://doi.org/10.1007/s00427-021-00681-0)
+13. Paula, M.S., Freitas, R., Barbosa, C.A.M., **Ribeiro, R.P.**, Ruta, C. (2022) Bycatch of Asteroidea from shrimp trawl fishery in the southwestern Atlantic Ocean – Brazil. ***Papeis Avulsos de Zoologia***. 62, e202262007. [Link](https://doi.org/10.11606/1807-0205/2022.62.007)
 
 <!-- -->
 
-10. **Ribeiro, R.P.**, Egger, B., Ponz-Segrelles, G., Aguado, M.T. (2021) Cellular proliferation dynamics during regeneration in *Syllis malaquini* (Syllidae, Annelida). Frontiers in Zoology, 18(1):1-16. [Link](https://doi.org/10.1186/s12983-021-00396-y)
+12. Aguado, M. T., Ponz-Segrelles, G., Glasby, C.J., **Ribeiro, R.P.**, Nakamura, M., Oguchi, K., Omori, A., Kohtsuka, H., Fisher, C., Ise, Y., Jimi, N., Miura, T. (2022). *Ramisyllis kingghidorahi*, a new branching annelid from Japan. ***Organisms Diversity and Evolution***, 22, 377–405. [Link](https://doi.org/10.1007/s13127-021-00538-4)
 
 <!-- -->
 
-9.  Ponz-Segrelles, G., Glaby, C.J., Helm, C., Beckers, P.; Hammel, J.U., **Ribeiro, R.P.**, Aguado, M.T. (2021). Integrative anatomical study of the branched annelid *Ramisyllis multicaudata* (Annelida, Syllidae). Journal of Morphology, 282(6): 900-916. [Link](https://doi.org/10.1002/jmor.21356)
+11. **Ribeiro, R.P.**, Aguado, M.T. (2021) Effects of GSK3β inhibition in the regeneration of *Syllis malaquini* (Syllidae, Annelida). ***Development, Genes and Evolution***, 231, 141–146. [Link](https://doi.org/10.1007/s00427-021-00681-0)
 
 <!-- -->
 
-8.  Ponz-Segrelles, G., **Ribeiro, R.P.**, Bleidorn, C., Aguado, M.T. (2020) Sex-specific gene expression differences in reproducing *Syllis prolifera* and *Nudisyllis pulligera* (Annelida, Syllidae). Marine Genomics, 54: 100772. [Link](https://doi.org/10.1016/j.margen.2020.100772)
+10. **Ribeiro, R.P.**, Egger, B., Ponz-Segrelles, G., Aguado, M.T. (2021) Cellular proliferation dynamics during regeneration in *Syllis malaquini* (Syllidae, Annelida). ***Frontiers in Zoology***, 18(1):1-16. [Link](https://doi.org/10.1186/s12983-021-00396-y)
 
 <!-- -->
 
-7.  **Ribeiro, R.P.**, Ponz-Segrelles, G., Helm, C., Egger, B., Aguado, M.T. (2020) A new species of *Syllis* Grube, 1850 including transcriptomic data and an updated phylogeny of Syllinae (Annelida: Syllidae). Marine Biodiversity, 50:31. [Link](#0)
+9.  Ponz-Segrelles, G., Glaby, C.J., Helm, C., Beckers, P.; Hammel, J.U., **Ribeiro, R.P.**, Aguado, M.T. (2021). Integrative anatomical study of the branched annelid *Ramisyllis multicaudata* (Annelida, Syllidae). ***Journal of Morphology***, 282(6): 900-916. [Link](https://doi.org/10.1002/jmor.21356)
 
 <!-- -->
 
-6.  **Ribeiro, R.P.**, Cruz, A.B., Freitas, R., Zanol, J., Glasby, C.J., Ruta, C. (2020) Pilargidae (Annelida: Phyllodocida) from coastal and deep waters of the Southwestern Atlantic, with descriptions of two new species. Zootaxa, 4878: 056–076. [Link](#0)
+8.  Ponz-Segrelles, G., **Ribeiro, R.P.**, Bleidorn, C., Aguado, M.T. (2020) Sex-specific gene expression differences in reproducing *Syllis prolifera* and *Nudisyllis pulligera* (Annelida, Syllidae). ***Marine Genomics***, 54: 100772. [Link](https://doi.org/10.1016/j.margen.2020.100772)
 
 <!-- -->
 
-5.  **Ribeiro, R.P.**, Ponz-Segrelles, G., Bleidorn, C., Aguado, M.T. (2019) Comparative transcriptomics in Syllidae (Annelida) indicates that posterior regeneration and regular growth are comparable, while anterior regeneration is a distinct process. BMC Genomics, 20:855. [Link](https://doi.org/10.1186/s12864-019-6223-y)
+7.  **Ribeiro, R.P.**, Ponz-Segrelles, G., Helm, C., Egger, B., Aguado, M.T. (2020) A new species of *Syllis* Grube, 1850 including transcriptomic data and an updated phylogeny of Syllinae (Annelida: Syllidae). ***Marine Biodiversity***, 50:31. [Link](#0)
 
 <!-- -->
 
-4.  **Ribeiro, R.P.**, Alves, P.R., Almeida, Z.S., Ruta, C. (2018) A new species of *Paraonis* and an annotated checklist of polychaetes from mangroves of the Brazilian Amazon Coast (Annelida, Paraonidae). Zookeys, 740:1-34. [Link](#0)
+6.  **Ribeiro, R.P.**, Cruz, A.B., Freitas, R., Zanol, J., Glasby, C.J., Ruta, C. (2020) Pilargidae (Annelida: Phyllodocida) from coastal and deep waters of the Southwestern Atlantic, with descriptions of two new species. ***Zootaxa***, 4878: 056–076. [Link](#0)
 
 <!-- -->
 
-3.  Sousa, L.K.S., Cutrim, A.S.T., **Ribeiro, R.P.**, Oliveira, V.M., Almeida, Z.S. (2018) Marine quality assessment of amazon mangroves using benthic and diversity indices based on polychaete fauna. Boletim do Laboratório de Hidrobiologia, 28: 11-22.[Link](http://www.periodicoseletronicos.ufma.br/index.php/blabohidro/article/view/5554)
+5.  **Ribeiro, R.P.**, Ponz-Segrelles, G., Bleidorn, C., Aguado, M.T. (2019) Comparative transcriptomics in Syllidae (Annelida) indicates that posterior regeneration and regular growth are comparable, while anterior regeneration is a distinct process. ***BMC Genomics***, 20:855. [Link](https://doi.org/10.1186/s12864-019-6223-y)
 
 <!-- -->
 
-2.  Cutrim, A.S.T., Sousa, L.K.S, **Ribeiro, R.P.**, Oliveira, V.M., Almeida, Z.S. (2018) Structure of a polychaete community in a mangrove in the northern coast of Brazil. Acta Biológica Colombiana, 23: 286-294. [Link](https://doi.org/10.15446/abc.v23n3.67245)
+4.  **Ribeiro, R.P.**, Alves, P.R., Almeida, Z.S., Ruta, C. (2018) A new species of *Paraonis* and an annotated checklist of polychaetes from mangroves of the Brazilian Amazon Coast (Annelida, Paraonidae). ***Zookeys***, 740:1-34. [Link](#0)
 
 <!-- -->
 
-1.  Rodrigues, C.A.L., **Ribeiro, R.P**.\*, Santos, N.B., Almeida, Z.S. (2016) Patterns of mollusc distribution in mangroves from the São Marcos Bay, coast of Maranhão State, Brazil. Acta Amazonica, 46: 391-400. \*RPR as corresponding author. [Link](http://dx.doi.org/10.1590/1809-4392201600493)
+3.  Sousa, L.K.S., Cutrim, A.S.T., **Ribeiro, R.P.**, Oliveira, V.M., Almeida, Z.S. (2018) Marine quality assessment of amazon mangroves using benthic and diversity indices based on polychaete fauna. ***Boletim do Laboratório de Hidrobiologia***, 28: 11-22.[Link](http://www.periodicoseletronicos.ufma.br/index.php/blabohidro/article/view/5554)
+
+<!-- -->
+
+2.  Cutrim, A.S.T., Sousa, L.K.S, **Ribeiro, R.P.**, Oliveira, V.M., Almeida, Z.S. (2018) Structure of a polychaete community in a mangrove in the northern coast of Brazil. ***Acta Biológica Colombiana***, 23: 286-294. [Link](https://doi.org/10.15446/abc.v23n3.67245)
+
+<!-- -->
+
+1.  Rodrigues, C.A.L., **Ribeiro, R.P**.\*, Santos, N.B., Almeida, Z.S. (2016) Patterns of mollusc distribution in mangroves from the São Marcos Bay, coast of Maranhão State, Brazil. ***Acta Amazonica***, 46: 391-400. \*RPR as corresponding author. [Link](http://dx.doi.org/10.1590/1809-4392201600493)
 
 ## **Reviews and book chapters**
 
