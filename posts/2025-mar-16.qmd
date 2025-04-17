@@ -1,0 +1,10 @@
+---
+title: "Genetic Models at Janelia Research Campus"
+author: "Ranny Ribeiro"
+date: "2025-03-19"
+categories: [news]
+---
+
+Today was the last day of the Conference [Genetic Tools for New Model Organisms](https://www.janelia.org/you-janelia/conferences/genetic-tools-for-new-model-organisms). I am so grateful for the opportunity to attend this amazing conference, network and meet so many smart and inspiring people revolutionazing techniques to study the diversity of model organisms. I learned a lot about genome editing and I presented a poster about a technique for gene knock down I have been working on during my postdoc. It was a great conference in an amazing institute. Simply unforgettable!
+
+![](images/IMG_5767.jpg){width="401"}

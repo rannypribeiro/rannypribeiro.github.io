@@ -1,0 +1,11 @@
+---
+title: "New Paper on the Cover of Development! 🪱✨"
+author: "Ranny Ribeiro"
+date: "2025-04-17"
+categories: [news]
+---
+
+How do worms make eggs and sperm? In our latest study in the [Özpolat Lab](https://bduyguozpolat.org/), we uncover the transcriptional signatures of gametogenesis in the segmented worm *Platynereis dumerilii*. Using RNA-seq, we show how sex-biased gene expression—including *dmrt1* and a newly identified gene, *psmt*—emerges as worms mature. Our work provides new tools for sex identification and lays the groundwork for exploring germ cell evolution. And guess what.. we got the cover!
+
+📄 Read more in *Development*: [Ribeiro et al. 2025](https://journals.biologists.com/dev/article-abstract/152/7/dev204513/367724/Sex-biased-gene-expression-precedes-sexual?redirectedFrom=fulltext).
+![](images/develop_152_7.coverfig.png)
