@@ -4,7 +4,7 @@ title: Publications
 
 ## **Research articles**
 
-18. **Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. (2025) Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. ***Development***, 152 (7): dev204513.; [Link](https://doi.org/10.1101/2024.06.12.598746)
+18. **Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. (2025) Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. ***Development***, 152 (7): dev204513.; [Link](https://doi.org/10.1242/dev.204513)
 
 <!-- -->
 
