@@ -263,13 +263,6 @@
     "href": "resources.html#bioinformatics-and-coding-resources",
     "title": "Resources",
     "section": "Bioinformatics and coding resources",
-    "text": "Bioinformatics and coding resources\nHelpful resources I utilize in Bioinformatics are accessible through my GitHub account.\nI created this website using Quarto, which is straightforward to manage when you are familiar with RStudio and R coding. The theme used is flatly."
-  },
-  {
-    "objectID": "resources.html#mental-health-and-professional-development",
-    "href": "resources.html#mental-health-and-professional-development",
-    "title": "Resources",
-    "section": "Mental Health and Professional Development",
-    "text": "Mental Health and Professional Development\nI believe that overall health should be our priority. Initially, the academic environment may pose challenges such as job insecurity, making it difficult to persevere and build resilience. Access to medical care and self-help resources is crucial. Here’s a list of my favorite resources that help me stay resilient, including books and videos. Stoicism is my lifestyle philosophy!\n\nLetters from a Stoic, by Seneca\nMeditations, by Marcus Aurelius\nAmar, desamar, amar de novo, by Marcos Lacerda.\nAmar-se, uma viagem em busca de si mesmo, by Marcos Lacerda.\nASMR videos. This is an amazing relaxation technique. I super recommend it.\nAbout Mental Health."
+    "text": "Bioinformatics and coding resources\nHelpful resources I utilize in Bioinformatics are accessible through my GitHub account.\nI created this website using Quarto, which is straightforward to manage even if you are not familiar with RStudio and R coding. The theme used is flatly."
   }
 ]
