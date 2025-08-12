@@ -24,20 +24,6 @@ I like to employ different strategies for teaching. Recently, I took advantage o
 
 Helpful resources I utilize in Bioinformatics are accessible through my [GitHub account](https://github.com/rannypribeiro).
 
-I created this website using [Quarto](https://quarto.org/), which is straightforward to manage when you are familiar with RStudio and R coding. The theme used is flatly.
+I created this website using [Quarto](https://quarto.org/), which is straightforward to manage even if you are not familiar with RStudio and R coding. The theme used is flatly.
 
-## Mental Health and Professional Development
 
-I believe that overall health should be our priority. Initially, the academic environment may pose challenges such as job insecurity, making it difficult to persevere and build resilience. Access to medical care and self-help resources is crucial. Here's a list of my favorite resources that help me stay resilient, including books and videos. Stoicism is my lifestyle philosophy!
-
--   [Letters from a Stoic](https://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac), by Seneca
-
--   [Meditations](https://dp.la/item/ed2ca2789adef475af72e107926a7e3a?q=meditations), by Marcus Aurelius
-
--   [Amar, desamar, amar de novo](https://www.vreditora.com.br/latitude/amar-desamar-amar-de-novo-como-garantir-um-relacionamento-saudavel-e-feliz), by Marcos Lacerda.
-
--   [Amar-se, uma viagem em busca de si mesmo](https://www.vreditora.com.br/latitude/amar-se-uma-viagem-em-busca-de-si-mesmo), by Marcos Lacerda.
-
--   [ASMR videos](https://www.youtube.com/results?search_query=asmr). This is an amazing relaxation technique. I super recommend it.
-
--   [About Mental Health](https://www.cdc.gov/mentalhealth/learn/index.htm).
