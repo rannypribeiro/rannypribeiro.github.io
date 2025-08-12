@@ -11,9 +11,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/rannypribeiro
-    - icon: github
-      text: Github
-      href: https://github.com/rannypribeiro
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=rXmqNIEAAAAJ&hl=pt-BR

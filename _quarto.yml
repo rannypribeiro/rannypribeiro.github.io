@@ -29,6 +29,7 @@ format:
   html:
     theme: flatly
     css: styles.css
+    include-in-header: <meta name="google-site-verification" content="0O3BzS03eMxlsOZrglhcM_zT4lko2p2kGoR5dhwpGyY" />
 
 editor: visual
 
