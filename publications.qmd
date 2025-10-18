@@ -4,12 +4,18 @@ title: Publications
 
 ## **Research articles**
 
-18. **Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. (2025) Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. ***Development***, 152 (7): dev204513.; [Link](https://doi.org/10.1242/dev.204513)
+::::: columns
+::: {.column width="20%"}
+![](images/clipboard-2436777513.png){width="100%"}
+:::
+::: {.column width="80%"}
+18. **Ribeiro, R.P.**, Null, R.W., Ozpolat, D.B. (2025) Sex-biased gene expression precedes sexual dimorphism in the agonadal annelid *Platynereis dumerilii*. ***Development***, 152 (7): dev204513. [Link](https://doi.org/10.1242/dev.204513)
 
 <!-- -->
 
 17. Spieß, V.\**,* **Ribeiro, R.P.\***, Helm, C., Aguado, M.T. (2024) From two segments and beyond: investigating the onset of regeneration in *Syllis malaquini* (Syllidae, Annelida). ***Evolution & Development***, e12492. [Link](https://doi.org/10.1111/ede.12492) \*Authors with equal contributions.
-
+:::
+:::
 <!-- -->
 
 16. **Ribeiro, R.P.**, Freitas, R., Zanol, J., Paiva, P.C., Fukuda, M.V., Guilment, T., Ruta, C. (2023) Genetic diversity of polychaete annelids from the Saint Peter and Saint Paul Archipelago, Equatorial Atlantic, with description of a new species. ***Regional Studies in Marine Science***,68, 103243. [Link](https://doi.org/10.1016/j.rsma.2023.103243).
@@ -39,13 +45,18 @@ title: Publications
 10. **Ribeiro, R.P.**, Egger, B., Ponz-Segrelles, G., Aguado, M.T. (2021) Cellular proliferation dynamics during regeneration in *Syllis malaquini* (Syllidae, Annelida). ***Frontiers in Zoology***, 18(1):1-16. [Link](https://doi.org/10.1186/s12983-021-00396-y)
 
 <!-- -->
-
+::::: columns
+::: {.column width="20%"}
+![](images/clipboard-347029175.jpeg){width="100%"}
+:::
+::: {.column width="80%"}
 9.  Ponz-Segrelles, G., Glaby, C.J., Helm, C., Beckers, P.; Hammel, J.U., **Ribeiro, R.P.**, Aguado, M.T. (2021). Integrative anatomical study of the branched annelid *Ramisyllis multicaudata* (Annelida, Syllidae). ***Journal of Morphology***, 282(6): 900-916. [Link](https://doi.org/10.1002/jmor.21356)
 
 <!-- -->
 
 8.  Ponz-Segrelles, G., **Ribeiro, R.P.**, Bleidorn, C., Aguado, M.T. (2020) Sex-specific gene expression differences in reproducing *Syllis prolifera* and *Nudisyllis pulligera* (Annelida, Syllidae). ***Marine Genomics***, 54: 100772. [Link](https://doi.org/10.1016/j.margen.2020.100772)
-
+:::
+:::
 <!-- -->
 
 7.  **Ribeiro, R.P.**, Ponz-Segrelles, G., Helm, C., Egger, B., Aguado, M.T. (2020) A new species of *Syllis* Grube, 1850 including transcriptomic data and an updated phylogeny of Syllinae (Annelida: Syllidae). ***Marine Biodiversity***, 50:31. [Link](#0)
@@ -117,3 +128,5 @@ title: Publications
 <!-- -->
 
 1.  **Ribeiro, R. P.** (2013) Characterization of the polychaete fauna in mangroves from two areas of the São Marcos Bay, Maranhão. State University of Maranhão. Bachelor’s thesis. \[in Portuguese\]
+:::
+:::::
