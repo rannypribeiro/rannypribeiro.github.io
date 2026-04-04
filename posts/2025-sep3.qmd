@@ -1,0 +1,10 @@
+---
+title: "Sharing Progress at RAD + CRM Forum!"
+date: "2025-09-03"
+author: "Ranny Ribeiro"
+categories: [news]
+---
+
+Today, I presented at the RAD + CRM Forum as part of the Regenerative Medicine Work in Progress series. It was a fantastic chance to share updates on my CRM Innovator Seed Grant project. Big thanks to CRM for the opportunity!
+
+![](images/clipboard-3971960429.png){width="3.54in" height="5.4in"}
